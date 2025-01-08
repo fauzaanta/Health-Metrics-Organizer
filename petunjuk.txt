@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------------------------------
+>>          	    	   Selamat Datang di Program Perhitungan BMI dan MAP        	            <<
+------------------------------------------------------------------------------------------------------
+>> Program ini dikhususkan untuk menghitung BMI (Body Mass Index) dan MAP (Mean Arterial Pressure)
+   orang dewasa (umur 18 tahun ke atas)
+>> Anda harus log in terlebih dahulu untuk dapat menggunakan program
+>> Log in menggunakan ID dan password yang Anda miliki
+>> Anda diharuskan membuat akun terlebih dahulu jika belum memiliki ID dan password
+
+>> Setelah log in, Anda dapat menghitung BMI dan MAP 
+>> Anda dapat mengakses riwayat kesehatan yang pernah Anda masukan dengan memilih menu yang tepat
+
+>> Menu Awal 
+   [1] Log In 
+	Menu untuk log in, Anda akan diminta untuk memasukan ID dan password
+   [2] Buat akun
+	Pilih menu ini jika Anda baru pertama kali menggunakan program ini
+   [3] Petunjuk Penggunaan
+   [4] Keluar Program
+   [5] Tentang Kami
+     
+>> Menu Utama
+   [1] Masukan Data
+	Pilih menu ini jika Anda ingin memasukan data Anda. Anda akan diarahkan ke Menu Data
+   [2] Lihat Riwayat Kesehatan
+	Pilih menu ini jika Anda ingin melihat riwayat data kesehatan yang Anda miliki 
+	(nilai BMI dan MAP)
+   [3] Log Out
+	Pilih menu ini jika Anda ingin keluar dari program
+	 
+>> Menu Program
+   [1] Data BMI
+	Pilih menu ini jika Anda ingin mengetahui nilai BMI Anda
+   [2] Data MAP
+	Pilih menu ini jika Anda ingin mengetahui nilai MAP Anda
+   [3] Kembali ke Menu Utama
+

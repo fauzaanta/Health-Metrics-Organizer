@@ -1,0 +1,3 @@
+- pastikan dalam folder ini minimal terdapat file FinalProject_Kelompok2_PIMpy, file petunjuk.txt, dan file tentang.txt
+- Jika sudah membuat akun, file profil tidak boleh dihapus kecuali file listID dan listPass juga dihapus
+TERIMA KASIH
